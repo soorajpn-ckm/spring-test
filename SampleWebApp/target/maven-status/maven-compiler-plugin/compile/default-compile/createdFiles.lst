@@ -1,0 +1,4 @@
+com\sooraj\app\model\User.class
+com\sooraj\app\service\imp\UserServiceImpl.class
+com\sooraj\app\controller\RegistrationController.class
+com\sooraj\app\service\UserService.class
